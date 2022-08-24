@@ -1,0 +1,29 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    background: linear-gradient(35deg, teal, black);
+}
+
+nav h1 {
+    /* border: 2px solid black; */
+    padding: 5px;
+    border-radius: 8px;
+    background: linear-gradient(35deg, white, teal);
+    box-shadow: 5px 5px 5px black;
+}
+
+nav button {
+    margin: 5px;
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid transparent;
+}
+
+nav button:hover {
+    background-color: grey;
+    color: black;
+}
