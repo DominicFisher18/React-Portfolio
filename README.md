@@ -6,3 +6,7 @@
 ## Description ##
 
 The goal of this assignment is to create a portfolio using react, which is a good way to set yourself apart since displaying proficiency in react is very appealing to potential employers.  I have not finished the portfolio yet, but i have created the necessary files and have completed my nav bar.  I plan to finish the portfolio and fully customize it when i have time.
+
+## Live Website ##
+
+[React Portfolio](https://sheltered-savannah-58675.herokuapp.com/)
